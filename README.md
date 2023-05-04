@@ -1,3 +1,5 @@
+# Project discription 
+
 The competition was held among all the Yandex Practicum students on my stream. This decision took the 7th place out of 50 participants.
 
 In this competition, your task is to develop a model to predict the selling price of a car on the secondary market. (Regression)
